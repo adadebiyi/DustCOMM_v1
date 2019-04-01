@@ -1,6 +1,6 @@
 # Dust Constraints from joint Observational-Modelling-experiMental analysis – DustCOMM Version 1
 
-If you have any question, please email the corresponding author, Adeyemi Adebiyi. at aadebiyi@ucla.edu.
+If you have any question, please email the author, Adeyemi Adebiyi. at aadebiyi@ucla.edu.
 
 ==========================
 
