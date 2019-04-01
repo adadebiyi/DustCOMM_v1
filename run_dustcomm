@@ -1,0 +1,1 @@
+nohup /usr/local/bin/matlab -nodisplay -nosplash -r "dustcomm_main" > matlabjob.txt &
