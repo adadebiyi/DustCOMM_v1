@@ -1,6 +1,4 @@
-# DustCOMM_v1
-
-Dust Constraints from joint Observational-Modelling-experiMental analysis – DustCOMM Version 1
+# Dust Constraints from joint Observational-Modelling-experiMental analysis – DustCOMM Version 1
 
 Adeyemi A. Adebiyi, Jasper F. Kok, Yang Wang, Akinori Ito, David A. Ridley, Pierre Nabat, Chun Zhao
 
