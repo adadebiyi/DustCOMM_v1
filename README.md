@@ -1,6 +1,6 @@
 # Dust Constraints from joint Observational-Modelling-experiMental analysis – DustCOMM Version 1
 
-Adeyemi A. Adebiyi, Jasper F. Kok, Yang Wang, Akinori Ito, David A. Ridley, Pierre Nabat, Chun Zhao
+If you have any question, please email the corresponding author, Adeyemi Adebiyi. at aadebiyi@ucla.edu.
 
 ==========================
 
@@ -73,4 +73,3 @@ The "input_data" folder (data can be downloaded at http://zenodo.org/record/2620
 
 ==========================
 
-If you have any question, please email the corresponding author at aadebiyi@ucla.edu.
